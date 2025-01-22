@@ -1,13 +1,20 @@
-# Learn_Your_Courses_Intro_to_Programming
-Gain the skills you need to do independent data science projects
+# Learn_Your_Courses
 ![Do like this image](https://media.licdn.com/dms/image/D4D12AQGLrP7ZZbKmoQ/article-cover_image-shrink_720_1280/0/1679398470655?e=2147483647&v=beta&t=SvSgoSBDFkLUAy2pbKUl1vX_ptfw7C0UfvK7909Rrxg)
 
 # Intro_to_Programming
+## Gain the skills you need to do independent data science projects
 --------
-Bienvenue sur ce dépôt git consacré au Challenge DATA.
+Bienvenue sur ce dépôt git consacré à l'apprentissage de la programmation.
 
-Thème : Prédire de manière séquentielle l'évolution d'une carrière
-par HrFlow.ai. 
+Thème : Gain the skills you need to do independent data science projects
+
+# La liste des Tâches à réaliser
+--------
+- [ ] Arithmetic and Variables.
+- [ ] Functions **`requirements.txt`** .
+- [ ] Data Types.
+- [ ] Conditions and Conditional Statements.
+- [ ] Introduction to the Listes.
 
 Pour plus d'informations concernant le sujet prière de vous rendre sur le [Site web du Challenge ](https://challengedata.ens.fr/participants/challenges/151/).
 
