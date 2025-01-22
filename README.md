@@ -42,8 +42,9 @@ Il y a quatre positions différentes (ou étapes de carrière) qu'un employé pe
 
 # Ce qu'il faut retenir :
 --------
-**`nticiper la position probable qu'un employé atteindra au sein d'une entreprise. Cette prédiction repose sur l'évaluation d'informations concernant l'employé, telles que les qualifications, l'expérience, les compétences ou les intérêts, ainsi que des détails sur l'entreprise, tels que le secteur, le type d'activité, le style de gestion ou la taille.
-`**.
+```bash
+nticiper la position probable qu'un employé atteindra au sein d'une entreprise. Cette prédiction repose sur l'évaluation d'informations concernant l'employé, telles que les qualifications, l'expérience, les compétences ou les intérêts, ainsi que des détails sur l'entreprise, tels que le secteur, le type d'activité, le style de gestion ou la taille.
+```
 
 # Contributeur
 - Rodolphe Bounamari **`@rbouna`**.
