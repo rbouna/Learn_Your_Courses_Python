@@ -1,5 +1,7 @@
 # Learn_Your_Courses_Intro_to_Programming
 Gain the skills you need to do independent data science projects
+![Do like this image](images/mon-image.png)
+
 # Intro_to_Programming
 --------
 Bienvenue sur ce dépôt git consacré au Challenge DATA.
