@@ -1,6 +1,6 @@
 # Learn_Your_Courses_Intro_to_Programming
 Gain the skills you need to do independent data science projects
-![Do like this image](https://search.brave.com/images?q=image%20de%20la%20programmation)
+![Do like this image](https://media.licdn.com/dms/image/D4D12AQGLrP7ZZbKmoQ/article-cover_image-shrink_720_1280/0/1679398470655?e=2147483647&v=beta&t=SvSgoSBDFkLUAy2pbKUl1vX_ptfw7C0UfvK7909Rrxg)
 
 # Intro_to_Programming
 --------
