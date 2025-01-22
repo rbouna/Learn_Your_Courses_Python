@@ -1,7 +1,6 @@
 # Learn_Your_Courses_Intro_to_Programming
 Gain the skills you need to do independent data science projects
-# Challenge_DATA
-![Logo challengedata ]((https://search.brave.com/images?q=image%20de%20la%20programmation)) 
+# Intro_to_Programming
 --------
 Bienvenue sur ce dépôt git consacré au Challenge DATA.
 
