@@ -42,13 +42,8 @@ Il y a quatre positions différentes (ou étapes de carrière) qu'un employé pe
 
 # Ce qu'il faut retenir :
 --------
-**`- [x] Récupérer les données en local et les ajouter au .gitignore pour ne pas les exposer en ligne ;
-- [ ] Configurer l'environnement python grâce au fichier **`requirements.txt`** ;
-- [x] Charger et décompresser les données ;
-- [x] Nettoyer les données récupérées ;
-- [ ] Utiliser la base d'entraînement pour sélectionner les  modèles selon le F1-score ;
-- [ ] Tester les modèle sur la base de test ;
-- [ ] Soumettre notre travail au challenge.`**.
+**`nticiper la position probable qu'un employé atteindra au sein d'une entreprise. Cette prédiction repose sur l'évaluation d'informations concernant l'employé, telles que les qualifications, l'expérience, les compétences ou les intérêts, ainsi que des détails sur l'entreprise, tels que le secteur, le type d'activité, le style de gestion ou la taille.
+`**.
 
 # Contributeur
 - Rodolphe Bounamari **`@rbouna`**.
