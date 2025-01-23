@@ -2,13 +2,15 @@
 ![Do like this image](https://media.licdn.com/dms/image/D4D12AQGLrP7ZZbKmoQ/article-cover_image-shrink_720_1280/0/1679398470655?e=2147483647&v=beta&t=SvSgoSBDFkLUAy2pbKUl1vX_ptfw7C0UfvK7909Rrxg)
 
 # Intro_to_Programming :
-Bienvenue au cours d'introduction à la programmation. Ce cours est pour toi si tu n'as jamais coder de ta vie, aucun ligne de code et tu es intéressé par la science de données et l'apprentissage automatique (machine learning)
-(Si tu as une experience en  programmation et tu es juste nouveau en language python. Alors le mieux que tu puisse suivre directement le cours sur python(voir dans le repertoire nommé Python).
+Bienvenue au cours d'introduction à la programmation. 
 
-Dans ce cours, tu apprendras comment utiliser le code pour avoir certaines perfermences de ton ordinateur sur les tâches. Python est l'un des langages de programmation le plus popuplaires dans le domaine de la data science,
-ert c'est le langage que vas très vite apprendre dans ce course. Une fois que tu as complèté, tu seras assez prèt pour passer au cours de Python et suivi de celui de l'introduction à l'appprentisage automatique.
+Ce cours est pour toi si tu n'as jamais coder de ta vie, aucune ligne de code et tu es intéressé par la science de données et l'apprentissage automatique (machine learning)
+(Si tu as une expérience en  programmation et tu es juste nouveau en langage python. Alors le mieux que tu puisses suivre directement le cours sur python(voir dans le répertoire nommé Python).
 
-Dans ce cours, tu veras plusieurs exemples de code Python. Inspire toi du cours pour écrire ton propre code en resolvant l'exercice que je vais laisser.
+Dans ce cours, tu apprendras comment utiliser le code pour avoir certaines performances de ton ordinateur sur les tâches. Python est l'un des langages de programmation le plus populaires dans le domaine de la data science et c'est le langage que va très vite apprendre dans ce cours. Une fois que tu as complété, tu seras assez prêt pour passer au cours de Python et suivi de celui de l'introduction à l'apprentissage automatique.
+
+Dans ce cours, tu verras plusieurs exemples de code Python. Inspire toi du cours pour écrire ton propre code en résolvant l'exercice que je vais laisser.
+
 
 ## Gain the skills you need to do independent data science projects
 --------
