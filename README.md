@@ -1,14 +1,22 @@
 # Learn_Your_Courses
 ![Do like this image](https://media.licdn.com/dms/image/D4D12AQGLrP7ZZbKmoQ/article-cover_image-shrink_720_1280/0/1679398470655?e=2147483647&v=beta&t=SvSgoSBDFkLUAy2pbKUl1vX_ptfw7C0UfvK7909Rrxg)
 
-# Intro_to_Programming
+# Intro_to_Programming :
+Bienvenue au cours d'introduction à la programmation. Ce cours est pour toi si tu n'as jamais coder de ta vie, aucun ligne de code et tu es intéressé par la science de données et l'apprentissage automatique (machine learning)
+(Si tu as une experience en  programmation et tu es juste nouveau en language python. Alors le mieux que tu puisse suivre directement le cours sur python(voir dans le repertoire nommé Python).
+
+Dans ce cours, tu apprendras comment utiliser le code pour avoir certaines perfermences de ton ordinateur sur les tâches. Python est l'un des langages de programmation le plus popuplaires dans le domaine de la data science,
+ert c'est le langage que vas très vite apprendre dans ce course. Une fois que tu as complèté, tu seras assez prèt pour passer au cours de Python et suivi de celui de l'introduction à l'appprentisage automatique.
+
+Dans ce cours, tu veras plusieurs exemples de code Python. Inspire toi du cours pour écrire ton propre code en resolvant l'exercice que je vais laisser.
+
 ## Gain the skills you need to do independent data science projects
 --------
 Bienvenue sur ce dépôt git consacré à l'apprentissage de la programmation.
 
 Thème : Gain the skills you need to do independent data science projects
 
-# La liste des Tâches à réaliser
+# Table  des Matières
 --------
 - [ ] Arithmetic and Variables.
 - [ ] Function.
