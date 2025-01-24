@@ -35,6 +35,7 @@ Le Cours sur Arithmetic and Variables nous permet de :
     - modifier les variables
 # Funtions : 
  Introduction :
+ 
     Dans cette leçon, tu apprendras comment organiser ton 
     code avec les fonctions.
     Une fonction est un block de code destiné à la performance d'une tâche spécifique.
@@ -42,12 +43,12 @@ Le Cours sur Arithmetic and Variables nous permet de :
 # Objectif :
 --------
 Le Cours sur les notion de function nous permet de : 
-    - Intro to functions  : a simple example 
-    - How to run (or "call") a function
-    - More complexe example
-    - Variable "SCOPE"
-    - Functions with multiple arguments
-    - Functions with no arguments
+    - [] Intro to functions  : a simple example 
+    - [] How to run (or "call") a function
+    - [] More complexe example
+    - [] Variable "SCOPE"
+    - [] Functions with multiple arguments
+    - [] Functions with no arguments
 
 
 Afin d'exécuter l'ensemble des scripts présents dans ce projet, vous devez disposer d'un environnement python (>= 3.9) et d'installer les modules nécessaires par la commande suivante :
