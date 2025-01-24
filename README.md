@@ -11,7 +11,7 @@ Dans ce cours, tu apprendras comment utiliser le code pour avoir certaines perfo
 
 Dans ce cours, tu verras plusieurs exemples de code Python. Inspire toi du cours pour écrire ton propre code en résolvant l'exercice qui demande des connaissances similaires. Je vais laisser un fichier python un jupyter notebook dans le dossiers mes_codes qui  te serviras comme exemple numéro 1 d’évaluation de connaissance.
 
-## Thème : Acquisition de connaissances relative aux projets de la data science.
+## Thème : Acquisition de connaissances relatives aux projets de la data science.
 --------
 Bienvenue sur ce dépôt git consacré à l'apprentissage de la programmation.
 
@@ -51,8 +51,58 @@ Le Cours sur les notion de function nous permet de :
 - [x] Variable "SCOPE"
 - [x] Functions with multiple arguments
 - [x] Functions with no arguments
+
+# Data Types : 
+ Introduction :
+    Dans cette leçon, tu apprendras comment organiser ton 
+    code avec les fonctions. Une fonction est un block de code destiné à la performance d'une tâche spécifique.
+    Comme tu peux le voir, les fonctions t'aiderons à faire à peu près des calculs plusieurs fois sans dipluque aucun code.
+    
+# Objectif :
+--------
+Le Cours sur les notion de function nous permet de : 
+- [x] Intro to functions  : a simple example 
+- [x] How to run (or "call") a function
+- [x] More complexe example
+- [x] Variable "SCOPE"
+- [x] Functions with multiple arguments
+- [x] Functions with no arguments
+
+# Conditions and Conditional Statements : 
+ Introduction :
+    Dans cette leçon, tu apprendras comment organiser ton 
+    code avec les fonctions. Une fonction est un block de code destiné à la performance d'une tâche spécifique.
+    Comme tu peux le voir, les fonctions t'aiderons à faire à peu près des calculs plusieurs fois sans dipluque aucun code.
+    
+# Objectif :
+--------
+Le Cours sur les notion de function nous permet de : 
+- [x] Intro to functions  : a simple example 
+- [x] How to run (or "call") a function
+- [x] More complexe example
+- [x] Variable "SCOPE"
+- [x] Functions with multiple arguments
+- [x] Functions with no arguments
+
+# Introduction to the Listes : 
+ Introduction :
+    Dans cette leçon, tu apprendras comment organiser ton 
+    code avec les fonctions. Une fonction est un block de code destiné à la performance d'une tâche spécifique.
+    Comme tu peux le voir, les fonctions t'aiderons à faire à peu près des calculs plusieurs fois sans dipluque aucun code.
+    
+# Objectif :
+--------
+Le Cours sur les notion de function nous permet de : 
+- [x] Intro to functions  : a simple example 
+- [x] How to run (or "call") a function
+- [x] More complexe example
+- [x] Variable "SCOPE"
+- [x] Functions with multiple arguments
+- [x] Functions with no arguments
+
+
 -------
-Afin d'exécuter l'ensemble des scripts présents dans ce projet, vous devez disposer d'un environnement python (>= 3.9) et d'installer les modules nécessaires par la commande suivante :
+Afin d'exécuter l'ensemble des codes présents dans ce repertoire, vous devez disposer d'un environnement python (>= 3.9) et d'installer les modules nécessaires par la commande suivante :
 ```bash
 pip install "nom du module"
 ```
