@@ -20,26 +20,35 @@ Thème : Gain the skills you need to do independent data science projects
 
 # Table  des Matières
 --------
-- [ ] Arithmetic and Variables.
-- [ ] Function.
+- [x] Arithmetic and Variables.
+- [x] Function.
 - [ ] Data Types.
 - [ ] Conditions and Conditional Statements.
 - [ ] Introduction to the Listes.
 
 # Arithmetic and Variables :
-
-# Funtions : 
-
 # Objectif :
 --------
 Le Cours sur Arithmetic and Variables nous permet de : 
     - Faire des calculs 
     - Définirles variables
     - modifier les variables
-    
-Il est important de noter que la définition de ce problème est simplifiée et ne reflète la véritable complexité de l'évolution de carrière. En réalité, il est peu probable que des informations préalables sur l'employé ou l'entreprise déterminent les parcours professionnels. De plus, de nombreuses entreprises ne disposent pas d'une hiérarchie clairement définie et verticale, ce qui entraîne des trajectoires de carrière plus complexes et variées.
+# Funtions : 
+ Introduction :
+    Dans cette leçon, tu apprendras comment organiser ton 
+    code avec les fonctions.
+    Une fonction est un block de code destiné à la performance d'une tâche spécifique.
+    Comme tu peux le voir, les fonctions t'aiderons à faire à peu près des calculs plusieurs fois sans dipluque aucun code.
+# Objectif :
+--------
+Le Cours sur les notion de function nous permet de : 
+    - Intro to functions  : a simple example 
+    - How to run (or "call") a function
+    - More complexe example
+    - Variable "SCOPE"
+    - Functions with multiple arguments
+    - Functions with no arguments
 
-# Pré-requis
 
 Afin d'exécuter l'ensemble des scripts présents dans ce projet, vous devez disposer d'un environnement python (>= 3.9) et d'installer les modules nécessaires par la commande suivante :
 
