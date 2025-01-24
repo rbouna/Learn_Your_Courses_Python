@@ -42,17 +42,12 @@ Le Cours sur Arithmetic and Variables nous permet de :
 # Objectif :
 --------
 Le Cours sur les notion de function nous permet de : 
-- [x] Arithmetic and Variables.
-- [x] Function.
-- [ ] Data Types.
-- [ ] Conditions and Conditional Statements.
-- [ ] Introduction to the Listes.
-- [ ] Intro to functions  : a simple example 
-- [ ] How to run (or "call") a function
-- [ ] More complexe example
-- [ ] Variable "SCOPE"
-- [ ] Functions with multiple arguments
-- [ ] Functions with no arguments
+- [x] Intro to functions  : a simple example 
+- [x] How to run (or "call") a function
+- [x] More complexe example
+- [x] Variable "SCOPE"
+- [x] Functions with multiple arguments
+- [x] Functions with no arguments
 
 
 Afin d'exécuter l'ensemble des scripts présents dans ce projet, vous devez disposer d'un environnement python (>= 3.9) et d'installer les modules nécessaires par la commande suivante :
