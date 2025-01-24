@@ -4,19 +4,16 @@
 # Intro_to_Programming :
 Bienvenue au cours d'introduction à la programmation. 
 
-Ce cours est pour toi si tu n'as jamais coder de ta vie, aucune ligne de code et tu es intéressé par la science de données et l'apprentissage automatique (machine learning), 
-(Si tu as une expérience en  programmation et tu es juste nouveau en langage python. Alors le mieux que tu puisses faire c'est de suivre directement le cours sur python(voir dans le répertoire nommé Python).
+Ce cours est pour toi, si tu n'as jamais coder de ta vie, aucune ligne de code et tu es intéressé par la science de données et l'apprentissage automatique|machine learning, 
+si tu as une expérience en programmation et que tu es juste nouveau en langage python. Alors le mieux que tu puisses faire c'est de suivre directement le cours sur python(Que tu trouveras dans le répertoire nommé Python).
 
-Dans ce cours, tu apprendras comment utiliser le code pour avoir certaines performances de ton ordinateur sur les tâches. Python est l'un des langages de programmation le plus populaires dans le domaine de la data science et c'est le langage que va très vite apprendre dans ce cours. Une fois que tu as complété, tu seras assez prêt pour passer au cours de Python et suivi de celui de l'introduction à l'apprentissage automatique.
+Dans ce cours, tu apprendras comment utiliser le code pour avoir certaines performances de ton ordinateur sur les tâches qui sont réservées pour. Python est l'un des langages de programmation le plus populaires dans le domaine de la data science et c'est le langage que va très vite apprendre dans ce cours. Une fois que tu as complété, tu seras assez prêt pour passer au cours de Python et suivi de celui de l'introduction à l'apprentissage automatique.
 
-Dans ce cours, tu verras plusieurs exemples de code Python. Inspire toi du cours pour écrire ton propre code en résolvant l'exercice que je vais laisser.
+Dans ce cours, tu verras plusieurs exemples de code Python. Inspire toi du cours pour écrire ton propre code en résolvant l'exercice qui demande des connaissances similaires. Je vais laisser un fichier python un jupyter notebook dans le dossiers mes_codes qui  te serviras comme exemple numéro 1 d’évaluation de connaissance.
 
-
-## Gain the skills you need to do independent data science projects
+## Thème : Acquisition de connaissances que tu désir pour être indépendant dans les projets de la data science.
 --------
 Bienvenue sur ce dépôt git consacré à l'apprentissage de la programmation.
-
-Thème : Gain the skills you need to do independent data science projects
 
 # Table  des Matières
 --------
@@ -27,12 +24,18 @@ Thème : Gain the skills you need to do independent data science projects
 - [ ] Introduction to the Listes.
 
 # Arithmetic and Variables :
+Introduction :
+     Dans cette leçon, tu apprendras comment afficher une chaîne de 
+    carractère avec la fonction print(). Cette fonction te permet d'afficher la somme,soustraction,...etc d'une opération Arithmétique.
+    Aussi, tu peux apprendre à utiliser les commentaires(elles t'aide à comprendre et à faire comprendre aux autres ton code.
+    À créer, manipuler,stocker des variables et Debugger des ligne de code en error.
 # Objectif :
 --------
-Le Cours sur Arithmetic and Variables nous permet de : 
-    - Faire des calculs 
-    - Définirles variables
-    - modifier les variables
+Le Cours sur Arithmetic and Variables nous permet de :
+- [x] Faire des calculs
+- [x]  Définirles variables
+- [x] Modifier les variables
+
 # Funtions : 
  Introduction :
     Dans cette leçon, tu apprendras comment organiser ton 
@@ -49,29 +52,9 @@ Le Cours sur les notion de function nous permet de :
 - [x] Functions with multiple arguments
 - [x] Functions with no arguments
 
-
 Afin d'exécuter l'ensemble des scripts présents dans ce projet, vous devez disposer d'un environnement python (>= 3.9) et d'installer les modules nécessaires par la commande suivante :
-
 ```bash
 pip install "nom du module"
 ```
-
-## Description des parties du cours
-
-Il y a quatre positions différentes (ou étapes de carrière) qu'un employé peut atteindre dans une entreprise :
-
-# Les Remarques
-
-
-# Ce qu'il faut retenir :
---------
-```bash
-nticiper la position probable qu'un employé atteindra au sein d'une entreprise.
-Cette prédiction repose sur l'évaluation d'informations concernant l'employé,
-telles que les qualifications, l'expérience, les compétences ou les intérêts,
- ainsi que des détails sur l'entreprise, tels que le secteur, le type d'activité,
-le style de gestion ou la taille.
-```
-
 # Contributeur
 - Rodolphe Bounamari **`@rbouna`**.
