@@ -19,7 +19,7 @@ Bienvenue sur ce dépôt git consacré à l'apprentissage de la programmation.
 --------
 - [x] Arithmetic and Variables.
 - [x] Function.
-- [ ] Data Types.
+- [x] Data Types.
 - [ ] Conditions and Conditional Statements.
 - [ ] Introduction to the Listes.
 
@@ -33,14 +33,14 @@ Introduction :
 --------
 Le Cours sur Arithmetic and Variables nous permet de :
 - [x] Faire des calculs
-- [x]  Définirles variables
+- [x] Définir les variables
 - [x] Modifier les variables
 
 # Funtions : 
  Introduction :
     Dans cette leçon, tu apprendras comment organiser ton 
     code avec les fonctions. Une fonction est un block de code destiné à la performance d'une tâche spécifique.
-    Comme tu peux le voir, les fonctions t'aiderons à faire à peu près des calculs plusieurs fois sans dipluque aucun code.
+    Comme tu le verras les fonctions t'aiderons à faire à peu près des calculs plusieurs fois sans dipluquer le code d'origine.
     
 # Objectif :
 --------
@@ -70,19 +70,17 @@ Le Cours sur les notion de function nous permet de :
 
 # Conditions and Conditional Statements : 
  Introduction :
-    Dans cette leçon, tu apprendras comment organiser ton 
-    code avec les fonctions. Une fonction est un block de code destiné à la performance d'une tâche spécifique.
-    Comme tu peux le voir, les fonctions t'aiderons à faire à peu près des calculs plusieurs fois sans dipluque aucun code.
+    Dans cette leçon, vous apprendrez à utiliser des conditions et 
+    des instructions conditionnelles pour modifier le fonctionnement de vos fonctions.
     
 # Objectif :
 --------
 Le Cours sur les notion de function nous permet de : 
-- [x] Intro to functions  : a simple example 
-- [x] How to run (or "call") a function
-- [x] More complexe example
-- [x] Variable "SCOPE"
-- [x] Functions with multiple arguments
-- [x] Functions with no arguments
+- [x] Introduction
+- [x] Conditions
+- [x] Conditional statements ("if" statements,"if ... else" statements, "if ... elif ... else" statements)
+- [x] Example - Calculations
+- [x] Example - Multiple "elif" statements
 
 # Introduction to the Listes : 
  Introduction :
